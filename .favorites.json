@@ -1,0 +1,20 @@
+[
+    {
+        "type": "File",
+        "name": "c:\\laragon\\www\\henug-backend\\routes\\api.php",
+        "parent_id": null,
+        "fsPath": "c:\\laragon\\www\\henug-backend\\routes\\api.php",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "y0lh2Agm8Kk4VOqS"
+    },
+    {
+        "type": "Directory",
+        "name": "c:\\laragon\\www\\henug-backend\\app\\Http\\Controllers\\API",
+        "parent_id": null,
+        "fsPath": "c:\\laragon\\www\\henug-backend\\app\\Http\\Controllers\\API",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "LSUv1KtOE6gnFx2s"
+    }
+]
